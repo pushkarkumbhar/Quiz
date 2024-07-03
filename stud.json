@@ -1,0 +1,74 @@
+"student": [
+    {
+      "id": "9a01",
+      "user": {
+        "mail": "pushkarr09@gmail.com",
+        "sname": "Pushkar"
+      },
+      "marks": 70
+    },
+    {
+      "id": "af83",
+      "user": {
+        "mail": "Prajyot108@gmail.com",
+        "sname": "prajyot"
+      },
+      "marks": 90
+    },
+    {
+      "id": "4365",
+      "user": {
+        "mail": "ajay45@gmail.com",
+        "sname": "ajay"
+      },
+      "marks": 60
+    },
+    {
+      "id": "aeeb",
+      "user": {
+        "mail": " krish23@gmail.com",
+        "sname": "krish"
+      },
+      "marks": 80
+    },
+    {
+      "id": "2bd2",
+      "user": {
+        "mail": "Pushkarkumbhar15@gmail.com",
+        "sname": "pushkar"
+      },
+      "marks": 60
+    },
+    {
+      "id": "4bc6",
+      "user": {
+        "mail": "rahulpatil45@gmail.com",
+        "sname": "rahul"
+      },
+      "marks": 20
+    },
+    {
+      "id": "a6ae",
+      "user": {
+        "mail": "chougulead09@gmail.com",
+        "sname": "aditya"
+      },
+      "marks": 60
+    },
+    {
+      "id": "38c9",
+      "user": {
+        "mail": "deepak98@gmail.com",
+        "sname": "deepak"
+      },
+      "marks": 60
+    },
+    {
+      "id": "d973",
+      "user": {
+        "mail": "suraj68@gmail.com",
+        "sname": "suraj"
+      },
+      "marks": 60
+    } ]
+    
